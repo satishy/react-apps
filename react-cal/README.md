@@ -7,11 +7,11 @@ $ git clone
 ```
 
 ```sh
-$ cd react-calculator
-```
+$ cd react-cal
 
 ```sh
 $ yarn install
+or npm start
 ```
 
 ## Run Locally
